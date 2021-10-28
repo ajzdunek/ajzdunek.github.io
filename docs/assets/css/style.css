@@ -1,3 +1,5 @@
+/* css for default.html begin */
+
 header {
   position: relative;
   background-color: black;
@@ -53,3 +55,21 @@ header .overlay {
 .index-fa-github{
  color: white;
 }
+
+/* css for default.html end */
+
+/* css for project.html begin */
+
+hr.style-one {
+    border: 0;
+    height: 1px;
+    width: 90%;
+    background: #333;
+    background-image: linear-gradient(to right, #ccc, #333, #ccc);
+}
+.az-sd{
+  text-align: center;
+  width: 100%;
+}
+
+/* css for project.html end */
