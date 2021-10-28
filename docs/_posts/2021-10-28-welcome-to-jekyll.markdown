@@ -1,29 +1,26 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Intro"
 date:   2021-10-28 12:45:03 +0100
 categories: jekyll update
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
-Jekyll requires blog post files to be named according to the following format:
+<div class="container">	
+		<img src="/assets/images/IMG_4469.jpeg" class="img-fluid rounded mx-auto d-block" alt="Responsive image">
+</div>
 
-`YEAR-MONTH-DAY-title.MARKUP`
+<div class="container py-3">	
+<p class="text-wrap mx-auto" style="width: 100%;">My name is Andrew and I'm a tech-savvy technical recruiter looking to make the switch into software development. I am originally from Chicago and now live in London with my wife.</p>
 
-Where `YEAR` is a four-digit number, `MONTH` and `DAY` are both two-digit numbers, and `MARKUP` is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+<p class="text-wrap mx-auto" style="width: 100%;">I started out my journey with tech in 2017 self-learning the core basics - HTML5, CSS and JavaScript. By the beginning of 2018 I ended up going through an immersive 4-month coding program at Northwestern University in Chicago where I ended up learning HTML5, CSS, JavaScript, jQuery, Node, MySQL, MongoDB, Express.js and React.</p>
+		
+<p class="text-wrap mx-auto" style="width: 100%;">After completing the coding program I did two short internships mainly as a Front-End Developer. Around this time I felt as I needed more practice with programming and understanding the software development world. I took an alternative route and found myself working as a technical recruiter by the Summer of 2019 where I was able to utilize my knowledge of software development to connect with and talk with some of the most talented tech professionals in the industry. </p>
 
-Jekyll also offers powerful support for code snippets:
+<p class="text-wrap mx-auto" style="width: 100%;">Being a technical recruiter has also helped me to understand what both startups or Fortune 500 companies look for in their candidates. One of the things I most enjoy about being a recruiter is doing an intake call with the manager and really trying to understand what technologies the company is working with, what the day to day is like and what are the challenges of finding talent. All of this has helped me to better understand the tech world, what I want out of myself as a software developer and how I am able to help a future company achieve their goals.</p>
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
+<p class="text-wrap mx-auto" style="width: 100%;">Besides coding and tech recruitment, I'm a musician and I like to collect vintage drum machines as well as fix them. </p>
 
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
+<p class="text-wrap mx-auto" style="width: 100%;">Oh and if you're also wondering about the pic, this is me and my wife Jes visiting Hydra, one of the islands of Greece.</p>
 
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+</div>
+

@@ -1,0 +1,17 @@
+
+
+{% include header.html %}
+
+
+  <div class="container">
+      <div class="posts">
+          {% for post in site.posts %}
+          <br>
+          <article>
+              <h2 class="fw-light"><a href="{{ post.url }}">{{ post.title }}</a></h2>
+              <p class="">Published on {{ post.date | date_to_string }}</p>
+              <p class="">{{ post.excerpt | strip_html | strip_newlines | truncate: 20 }}</p>
+          </article>
+          {% endfor %}
+      </div>
+  </div>

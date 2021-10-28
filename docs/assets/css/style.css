@@ -58,7 +58,7 @@ header .overlay {
 
 /* css for default.html end */
 
-/* css for project.html begin */
+/* css for projects.html begin */
 
 hr.style-one {
     border: 0;
@@ -72,4 +72,49 @@ hr.style-one {
   width: 100%;
 }
 
-/* css for project.html end */
+/* css for projects.html end */
+
+
+/* Posts - CSS */
+/* .post-title{
+    font-weight: 100;
+    font-size: 35px;
+}
+
+#page-title{
+    font-weight: 100;
+    font-size: 35px;
+}
+
+
+.article{
+    padding-top: 4%;
+    text-align: center;
+}
+
+.publish{
+    font-weight: 100;
+}
+
+.publish-two{
+    font-weight: 300;
+}
+
+.publish-three{
+    font-weight: 200;
+    font-size: 20px;
+    word-break: break-all;
+    display: inline-block;
+}
+
+#content {
+    font-weight: 100;
+}
+
+#back-to-home{
+    font-weight: 200;
+    font-size: 16px;
+} */
+
+
+/* Posts - CSS */
