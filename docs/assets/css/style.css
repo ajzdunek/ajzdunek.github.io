@@ -72,49 +72,14 @@ hr.style-one {
   width: 100%;
 }
 
-/* css for projects.html end */
-
-
-/* Posts - CSS */
-/* .post-title{
-    font-weight: 100;
-    font-size: 35px;
+.fa-linkedin-in{
+	color: #0072b1;
 }
-
-#page-title{
-    font-weight: 100;
-    font-size: 35px;
+	
+.fa-github{
+	color: white;
 }
-
-
-.article{
-    padding-top: 4%;
-    text-align: center;
+	
+.fa-stack-overflow{
+	color: #ef8236;
 }
-
-.publish{
-    font-weight: 100;
-}
-
-.publish-two{
-    font-weight: 300;
-}
-
-.publish-three{
-    font-weight: 200;
-    font-size: 20px;
-    word-break: break-all;
-    display: inline-block;
-}
-
-#content {
-    font-weight: 100;
-}
-
-#back-to-home{
-    font-weight: 200;
-    font-size: 16px;
-} */
-
-
-/* Posts - CSS */
