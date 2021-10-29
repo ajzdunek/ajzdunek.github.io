@@ -1,0 +1,107 @@
+/* css for default.html begin */
+
+header {
+  position: relative;
+  background-color: black;
+  height: 100vh; 
+  min-height: 25rem;
+  width: 100%; 
+  overflow: hidden;
+}
+header video {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  min-width: 100%;
+  min-height: 100%;
+  object-fit: cover;
+  width: 100%;
+  height: auto;
+  z-index: 0;
+  -ms-transform: translateX(-50%) translateY(-50%);
+  -moz-transform: translateX(-50%) translateY(-50%);
+  -webkit-transform: translateX(-50%) translateY(-50%);
+  transform: translateX(-50%) translateY(-50%);
+}
+header .container {
+  position: relative;
+  z-index: 2;
+  
+}
+header .overlay {
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 100%;
+  width: 100%;
+  background-color: black;
+  opacity: 0.5;
+  z-index: 1;
+}
+.me, .occupation{
+ letter-spacing: 10px;
+ font-weight: 100 !important
+}
+.about-me{
+  letter-spacing: 2px;
+  font-weight: 200;
+}
+.az-sd{
+  position: absolute;
+  bottom: 20px;
+  text-align: center;
+  width: 100%;
+}
+.index-fa-github{
+ color: white;
+}
+
+/* css for default.html end */
+
+/* css for projects.html begin */
+
+hr.style-one {
+    border: 0;
+    height: 1px;
+    width: 90%;
+    background: #333;
+    background-image: linear-gradient(to right, #ccc, #333, #ccc);
+}
+.az-sd{
+  text-align: center;
+  width: 100%;
+}
+
+.fa-linkedin-in{
+	color: #0072b1;
+}
+	
+.fa-github{
+	color: white;
+}
+	
+.fa-stack-overflow{
+	color: #ef8236;
+}
+
+/* iPhone 5/SE */
+  /* @media (max-width: 320px) { 
+    .whoami-mobile{
+     position: absolute;
+    bottom: 70px;
+    font-size: 12px;
+		} 
+    .me{
+      font-size: 40px;
+    }
+    .occupation{
+      font-size: 25px;
+    }
+  } */
+
+  /* Small devices (landscape phones, 576px and up) */
+@media (max-width: 576px) { 
+    .my-cv{
+    padding-bottom: 70px;
+		} 
+  }
