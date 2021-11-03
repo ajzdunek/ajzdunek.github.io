@@ -84,6 +84,10 @@ hr.style-one {
 	color: #ef8236;
 }
 
+.fa-codepen {
+  color: white;
+}
+
 /* iPhone 5/SE */
   /* @media (max-width: 320px) { 
     .whoami-mobile{
