@@ -8,6 +8,7 @@ header {
   width: 100%; 
   overflow: hidden;
 }
+
 header video {
   position: absolute;
   top: 50%;
@@ -23,11 +24,13 @@ header video {
   -webkit-transform: translateX(-50%) translateY(-50%);
   transform: translateX(-50%) translateY(-50%);
 }
+
 header .container {
   position: relative;
   z-index: 2;
   
 }
+
 header .overlay {
   position: absolute;
   top: 0;
@@ -60,10 +63,10 @@ header .overlay {
 
 /* css for projects.html begin */
 
-hr.style-one {
+hr.style-one{
     border: 0;
     height: 1px;
-    width: 90%;
+    width: 100%;
     background: #333;
     background-image: linear-gradient(to right, #ccc, #333, #ccc);
 }
@@ -79,29 +82,27 @@ hr.style-one {
 .fa-github{
 	color: white;
 }
-	
-.fa-stack-overflow{
-	color: #ef8236;
-}
 
 .fa-codepen {
   color: white;
 }
 
-/* iPhone 5/SE */
-  /* @media (max-width: 320px) { 
-    .whoami-mobile{
-     position: absolute;
-    bottom: 70px;
-    font-size: 12px;
-		} 
-    .me{
-      font-size: 40px;
-    }
-    .occupation{
-      font-size: 25px;
-    }
-  } */
+.fa-github-black{
+  color: black
+}
+
+.fa-codepen-black{
+  color: black;
+}
+	
+.fa-stack-overflow{
+	color: #ef8236;
+}
+
+.footer{
+  text-align: center;
+}
+
 
   /* Small devices (landscape phones, 576px and up) */
 @media (max-width: 576px) { 
