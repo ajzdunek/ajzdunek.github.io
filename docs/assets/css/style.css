@@ -103,6 +103,10 @@ hr.style-one{
   text-align: center;
 }
 
+.reach-out{
+  font-weight: 200;
+}
+
 
   /* Small devices (landscape phones, 576px and up) */
 @media (max-width: 576px) { 
