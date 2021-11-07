@@ -13,4 +13,4 @@ On the top left of my repository there's a dropdown that says main - click on th
 - JavaScript
 - Bootstrap 5 
 - Jekyll  
-- HubSpot (to take care of the forms and other automated processes)
+- HubSpot (to take care of the contact form and other automated processes)
