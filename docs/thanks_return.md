@@ -1,4 +1,4 @@
 ---
-layout: thanks_return
+layout: page
 permalink: /thanks_return/
 ---
