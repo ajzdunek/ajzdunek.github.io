@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Intro"
+title:  "whoami"
 date:   2021-10-28 12:45:03 +0100
 categories: [Tech, Technology, "Tech Recruitment", "Software Development", "London Tech"]
 ---
