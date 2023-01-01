@@ -37,7 +37,7 @@ X-ray searches will allow broader search outside LinkedIn while LinkedIn recruit
 
 6. **The result ↓** - type it out or copy and paste this into Chrome. 
 <div class="container">	
-		<img src="/assets/images/x-ray_search.jpeg" class="img-fluid rounded mx-auto d-block" alt="Responsive image">
+		<img src="https://ajzdunek.github.io/assets/images/x-ray_search.jpeg" class="img-fluid rounded mx-auto d-block" alt="Responsive image">
 </div>
 
 <br>
