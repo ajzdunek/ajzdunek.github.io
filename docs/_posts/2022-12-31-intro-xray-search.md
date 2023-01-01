@@ -11,7 +11,7 @@ There are three layers of the internet
 
 - Surface Web (LinkedIn Recruiter)
 
-- Deep Web (X-Ray Searches), **example:** site:
+- Deep Web (X-Ray Searches), **example:** site: ***→ think of site: as another way of saying https:***
 
 - Dark Web - **good idea to stay away from this layer**
 
