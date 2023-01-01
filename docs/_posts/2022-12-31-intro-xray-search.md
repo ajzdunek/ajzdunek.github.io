@@ -13,7 +13,7 @@ There are three layers of the internet
 
 - Deep Web (X-Ray Searches), **example:** site:
 
-- Dark Web - **good idea to stay away from this area**
+- Dark Web - **good idea to stay away from this layer**
 
 <hr class="style-one">
 
